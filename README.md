@@ -1,17 +1,17 @@
 # Knowledge-Driven Vision-Language Pretraining Reading
 
-This repository contains a list of papers, codes, datasets, leaderboards on the topic of **Knowledge-Driven Vision-Language Pretraining**. If you found any error, please don't hesitate to open an issue or pull request.
+This repository contains a list of papers, codes, datasets, and leaderboards on the topic of **Knowledge-Driven Vision-Language Pretraining**. If you find any error, please don't hesitate to open an issue or a pull request.
 
 -- We will continue to add and update related papers and codes on this page (Update on **Jun 08th, 2022**).
 
-## Basic vision-langauge pretraining papers and codes
+## Basic vision-language pretraining papers and codes
 (For new learners, some important papers for general NLG/KENLG.)
 
 - **[CLIP] Learning Transferable Visual Models From Natural Language Supervision**, in PMLR 2021. [\[pdf\]](https://arxiv.org/abs/2103.00020) [\[code\]](https://github.com/openai/CLIP)
 
 - **[Transformer] Attention Is All You Need**, in NeurIPS 2017. [\[pdf\]](https://arxiv.org/abs/1706.03762) 
 
-## Vision-langauge pretraining: entity knowledge
+## Vision-language pretraining: entity knowledge
 
 - **Video-and-Language Pre-training with Entity Prompts**, in CVPR 2022. [\[pdf\]](https://arxiv.org/abs/2112.09583)
 
@@ -43,7 +43,7 @@ This repository contains a list of papers, codes, datasets, leaderboards on the 
 
 
 
-## Vision-langauge pretraining: relational knowledge
+## Vision-language pretraining: relational knowledge
 
 - **ERNIE-ViL: Knowledge Enhanced Vision-Language Representations Through Scene Graph**, in AAAI 2021. [\[pdf\]](https://arxiv.org/abs/2006.16934)
 
@@ -55,7 +55,7 @@ This repository contains a list of papers, codes, datasets, leaderboards on the 
 
 
 
-## Vision-langauge pretraining: event knowledge
+## Vision-language pretraining: event knowledge
 
 - **CLIP-Event: Connecting Text and Images with Event Structures**, in CVPR 2022. [\[pdf\]](https://arxiv.org/abs/2201.05078)
 
@@ -67,7 +67,7 @@ This repository contains a list of papers, codes, datasets, leaderboards on the 
 
 
 
-## Vision-langauge pretraining: procedural knowledge
+## Vision-language pretraining: procedural knowledge
 
 - **Learning To Recognize Procedural Activities with Distant Supervision**, in CVPR 2022. [\[pdf\]](https://arxiv.org/abs/2201.10990)
 
@@ -80,7 +80,7 @@ This repository contains a list of papers, codes, datasets, leaderboards on the 
 - **Zero-Shot Anticipation for Instructional Activities**, in ICCV 2019. [\[pdf\]](https://arxiv.org/abs/1812.02501)
 
 
-## Vision-langauge pretraining: Language Model (LM) knowledge
+## Vision-language pretraining: Language Model (LM) knowledge
 
 
 - **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners**, in arXiv. [\[pdf\]](https://arxiv.org/pdf/2205.10747)
@@ -103,7 +103,7 @@ This repository contains a list of papers, codes, datasets, leaderboards on the 
 
 
 
-## Vision-langauge pretraining: external knowledge
+## Vision-language pretraining: external knowledge
 
 - **KRIT: Knowledge-Reasoning Intelligence in vision-language Transformer**. [\[pdf\]](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/KRIT.pdf)
 
