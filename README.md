@@ -57,6 +57,8 @@ This repository contains a list of papers, codes, datasets, leaderboards on the 
 
 ## Vision-langauge pretraining: event knowledge
 
+- **Verbs in Action: Improving verb understanding in video-language models**, arXiv. [\[pdf\]](https://arxiv.org/pdf/2304.06708.pdf)
+
 - **CLIP-Event: Connecting Text and Images with Event Structures**, in CVPR 2022. [\[pdf\]](https://arxiv.org/abs/2201.05078)
 
 - **Probing Image-Language Transformers for Verb Understanding**, in ACL 2021 Findings. [\[pdf\]](https://arxiv.org/abs/2106.09141)
@@ -82,7 +84,8 @@ This repository contains a list of papers, codes, datasets, leaderboards on the 
 
 ## Vision-langauge pretraining: Language Model (LM) knowledge
 
-
+- **Language Is Not All You Need: Aligning Perception with Language Models**, in arXiv. [\[pdf\]](https://arxiv.org/pdf/2302.14045.pdf)
+  
 - **Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners**, in arXiv. [\[pdf\]](https://arxiv.org/pdf/2205.10747)
 
 - **ELEVATER: A Benchmark and Toolkit for Evaluating Language-Augmented Visual Models**, in arXiv. [\[pdf\]](https://arxiv.org/abs/2204.08790)
